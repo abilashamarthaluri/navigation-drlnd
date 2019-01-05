@@ -7,7 +7,7 @@
 
 ## About this project
     
-    This project is done as part of the Reinforcement Learning Nanodegree by Udacity. In this project, we have an environment provided by [Unity](https://unity3d.com/) in which there are 2 kinds of Banana's Yellow and Blue. 
+This project is done as part of the Reinforcement Learning Nanodegree by Udacity. In this project, we have an environment provided by [Unity](https://unity3d.com/) in which there are 2 kinds of Banana's Yellow and Blue. 
     
 For this project, we will train an agent to navigate (and collect bananas!) in a large, square world.  
 
