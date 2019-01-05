@@ -26,7 +26,7 @@ Using DDQN, I am able to solve the environment in about 323 episodes, with an av
 
 ## Rewards Plot: 
 
-![Rewards Plot](/images/report.jpg?raw=true "Agent Rewards")
+[Rewards Plot](./images/report.jpg?raw=true "Agent Rewards")
 
 
 ## Ideas for Future Work
