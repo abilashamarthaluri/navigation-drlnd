@@ -23,10 +23,13 @@ Vanilla DQN tends to overestimate the action values initially and a proposal to 
 
 Using DDQN, I am able to solve the environment in about 323 episodes, with an average score of ~ 13.05 for the last 100 1pisodes.
 
+[//]: # (Image References)
+
+[image1]: https://github.com/abilashamarthaluri/navigation-drlnd/blob/master/images/result.jpg "Report"
 
 ## Rewards Plot: 
 
-[Rewards Plot](./images/report.jpg?raw=true "Agent Rewards")
+[Rewards Plot][image1]
 
 
 ## Ideas for Future Work
